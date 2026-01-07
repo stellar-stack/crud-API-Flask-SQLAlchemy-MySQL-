@@ -7,22 +7,22 @@ This project demonstrates how to manage a `users` table using REST API endpoints
 
 ## Features
 
-- Create a new user  
-- Read all users or a single user  
-- Update user information  
-- Delete a user  
-- Built with Flask + SQLAlchemy ORM  
-- Stores data in MySQL database  
+- Create a new user
+- Read all users or a single user
+- Update user information
+- Delete a user
+- Built with Flask + SQLAlchemy ORM
+- Stores data in MySQL database
 
 ---
 
 ## Technologies Used
 
-- Python 3.x  
-- Flask  
-- SQLAlchemy  
-- PyMySQL  
-- MySQL  
+- Python 3.x
+- Flask
+- SQLAlchemy
+- PyMySQL
+- MySQL
 
 ---
 
@@ -33,9 +33,3 @@ This project demonstrates how to manage a `users` table using REST API endpoints
 ```bash
 git clone https://github.com/your-username/flask-crud-api.git
 cd flask-crud-api
-
-
-python -m venv .venv
-
-
-pip install -r requirements.txt
