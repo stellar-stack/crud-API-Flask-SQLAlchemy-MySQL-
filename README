@@ -33,9 +33,3 @@ This project demonstrates how to manage a `users` table using REST API endpoints
 ```bash
 git clone https://github.com/your-username/flask-crud-api.git
 cd flask-crud-api
-
-
-python -m venv .venv
-
-
-pip install -r requirements.txt
